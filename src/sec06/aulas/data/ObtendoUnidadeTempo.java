@@ -24,6 +24,7 @@ public class ObtendoUnidadeTempo {
 		
 		System.out.println("Minutes: " + minutes);
 		System.out.println("Month: " + month);
+		System.out.println("Year: " + cal.get(Calendar.YEAR));
 
 	}
 
